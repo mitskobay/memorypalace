@@ -20,6 +20,10 @@
 -- forward start `w`, backward start `b`
 -- forward end `e`, backward end `ge`
 - WORDwise: `W`, `B`, `E`, `gE`
+- Linewise: `<line-number>G`
+- Screenwise:
+-- halfscreen up/down (cursor stays): `<C-u>`, `<C-d>`
+-- move to top/middle/bottom of screen: `H`, `M`, `L`
 
 ## Advanced Navigation
 - use find feature to move around
@@ -31,3 +35,5 @@
 - next: `n`, previous: `N`
 - Repeat last search: `/<CR>`, `?<CR>`
 - History (at search prompt): `<Up>`
+- Jump back: ``` `` ```
+- Move backward/forward through jump history: `<C-o>`, `<C-i>`
