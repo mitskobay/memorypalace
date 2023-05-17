@@ -27,13 +27,14 @@
 -- forward end `e`, backward end `ge`
 - WORDwise: `W`, `B`, `E`, `gE`
 - Linewise: `<line-number>G`
+- Jump between `()`,`{}`, `[]`: `%`
 - Screenwise:
 -- halfscreen up/down (cursor stays): `<C-u>`, `<C-d>`
 -- move to top/middle/bottom of screen: `H`, `M`, `L`
 - Filewise: beginning `gg`, end `G`
 
 ## Advanced Navigation
-- use find feature to move around
+Idea: use find feature to move around
 - linewise search: forward `f{char}`, backward `F{char}`
 - use `;` to repeat, `,` to undo
 - forward before `t{char}`, backward before `T{char}`
@@ -44,7 +45,6 @@
 - History (at search prompt): `<Up>`
 - Jump back: ``` `` ```
 - Move backward/forward through jump history: `<C-o>`, `<C-i>`
-- Jump between `()`,`{}`, `[]`: `%`
 
 ## Getting Help
 - `<F1>` or `:help`
