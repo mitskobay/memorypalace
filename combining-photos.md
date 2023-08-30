@@ -1,35 +1,35 @@
 # How to Combine Multiple Photos Into a Single Image Using Photoshop
 
-## Open all images together [1]
-- Go to File > Scripts > Load Files into Stack
-- In the Load Layers dialog box, set Use to Files
-- Use Browse... to open first image
+## Open all images together ([1])
+- Go to `File > Scripts > Load Files into Stack``
+- In the `Load Layers` dialog box, set Use to Files
+- Use `Browse...`` to open first image
 - Repeat until all desired images are opened
-- Back in the Load Layers dialog box click OK
+- Back in the `Load Layers` dialog box click `OK`
 - Photoshop will load each image as a layer in a single document
 
 ## Expand document bounds [1]
 - The images will be stacked on top of each other
 - We will reposition the images and expand the canvas space
-- Select the Move Tool
-- In the View menu, make sure Snap is enabled, and under Snap To, make sure that Document Bounds is enabled
+- Select the `Move` Tool
+- In the `View` menu, make sure `Snap` is enabled, and under `Snap To`, make sure that `Document Bounds` is enabled
 - Select a layer to move, then drag the image to the side until it snaps against another image (holding shift while dragging will limit the direction)
-- To expand the canvas, go to Image and choose Reveal All
+- To expand the canvas, go to `Image` and choose `Reveal All`
 - Repeat with each image until none are overlapping
 
 
 ## Create guides on a standard reference [2], [3]
 - For example, to make faces the same size, create horizontal guides at the top and bottom of the face and at eye level
-- Choose View > Rulers
+- Choose `View > Rulers`
 - For a horizontal guide, drag from the horizontal ruler
-- Choose a layer to transform, then hit Command-T
-- Use shift key on corner to preserve aspect ratio
+- Choose a layer to transform, then hit `Command-T`
+- Use `shift` key on corner to preserve aspect ratio
 
 ## Mask individual layers [4]
 - Select a layer
-- Select Rectangular Marquee Tool
+- Select `Rectangular Marquee Tool`
 - Drag a selection outline around the part of the image you want to keep
-- Select Mask
+- Select `Mask`
 
 [//]:
 
