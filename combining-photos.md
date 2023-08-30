@@ -31,8 +31,6 @@
 - Drag a selection outline around the part of the image you want to keep
 - Select `Mask`
 
-[//]:
-
 [1]: https://www.photoshopessentials.com/photo-effects/place-two-images-side-by-side/
 
 [2]: https://helpx.adobe.com/photoshop/using/grid-guides.html
