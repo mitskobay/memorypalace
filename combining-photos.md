@@ -18,7 +18,7 @@
 - Repeat with each image until none are overlapping
 
 
-## Create guides on a standard reference [2, 3]
+## Create guides on a standard reference [2], [3]
 - For example, to make faces the same size, create horizontal guides at the top and bottom of the face and at eye level
 - Choose View > Rulers
 - For a horizontal guide, drag from the horizontal ruler
@@ -31,11 +31,12 @@
 - Drag a selection outline around the part of the image you want to keep
 - Select Mask
 
+[//]:
 
-[1] https://www.photoshopessentials.com/photo-effects/place-two-images-side-by-side/
+[1]: https://www.photoshopessentials.com/photo-effects/place-two-images-side-by-side/
 
-[2] https://helpx.adobe.com/photoshop/using/grid-guides.html
+[2]: https://helpx.adobe.com/photoshop/using/grid-guides.html
 
-[3] https://clearps.com/photoshop-discussions/threads/19420-resize-two-face-images-to-same-size-in-ps/
+[3]: https://clearps.com/photoshop-discussions/threads/19420-resize-two-face-images-to-same-size-in-ps/
 
-[4] https://www.photoshopessentials.com/basics/how-to-crop-a-single-layer-in-photoshop/
+[4]: https://www.photoshopessentials.com/basics/how-to-crop-a-single-layer-in-photoshop/
