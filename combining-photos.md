@@ -7,6 +7,7 @@
 - Repeat until all desired images are opened
 - Back in the `Load Layers` dialog box click `OK`
 - Photoshop will load each image as a layer in a single document
+- Alternatively, to add a photo to an existing document, use `File > Place Embedded...` ([5])
 
 ## Expand document bounds ([1])
 - The images will be stacked on top of each other
@@ -38,3 +39,5 @@
 [3]: https://clearps.com/photoshop-discussions/threads/19420-resize-two-face-images-to-same-size-in-ps/
 
 [4]: https://www.photoshopessentials.com/basics/how-to-crop-a-single-layer-in-photoshop/
+
+[5]: https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json
