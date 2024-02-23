@@ -36,7 +36,7 @@
 - Position the photos with space between them
 - In Layers panel, at the bottom, click the `Create a New Fill or Adjustment Layer` (diagonal two-toned circle)
 - Choose `Solid Color`
-- In the dialog box, set the border color, then click `OK`.
+- In the dialog box, set the border color, then click `OK`
 - In Layers panel, drag the new color fill layer below the image layers
 
 [1]: https://www.photoshopessentials.com/photo-effects/place-two-images-side-by-side/
