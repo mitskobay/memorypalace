@@ -32,6 +32,13 @@
 - Drag a selection outline around the part of the image you want to keep
 - Select `Mask`
 
+## Create border between photos ([6])
+- Position the photos with space between them
+- In Layers panel, at the bottom, click the `Create a New Fill or Adjustment Layer` (diagonal two-toned circle)
+- Choose `Solid Color`
+- In the dialog box, set the border color, then click `OK`.
+- In Layers panel, drag the new color fill layer below the image layers
+
 [1]: https://www.photoshopessentials.com/photo-effects/place-two-images-side-by-side/
 
 [2]: https://helpx.adobe.com/photoshop/using/grid-guides.html
@@ -41,3 +48,5 @@
 [4]: https://www.photoshopessentials.com/basics/how-to-crop-a-single-layer-in-photoshop/
 
 [5]: https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json
+
+[6]: https://helpx.adobe.com/ph_fil/photoshop/how-to/add-border-frame-around-photo.html#
