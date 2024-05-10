@@ -26,11 +26,12 @@
 - Choose a layer to transform, then hit `Command-T`
 - Use `shift` key on corner to preserve aspect ratio
 
-## Mask individual layers ([4])
+## Mask individual layers ([4], [8])
 - Select a layer
 - Select `Rectangular Marquee Tool`
 - Drag a selection outline around the part of the image you want to keep
 - Select `Mask`
+- To copy a layer mask to another layer, press and hold Option, then click and drag it to another layer
 
 ## Create border between photos ([6])
 - Position the photos with space between them
@@ -52,3 +53,5 @@
 [6]: https://helpx.adobe.com/ph_fil/photoshop/how-to/add-border-frame-around-photo.html#
 
 [7]: https://creativepro.com/creativepro-tip-of-the-week-quickly-resize-the-photoshop-canvas-with-reveal-all-and-trim/
+
+[8]: https://photoshoptrainingchannel.com/tips/move-copy-layer-masks/#:~:text=To%20copy%20a%20Layer%20Mask,it%20to%20any%20other%20layer.
