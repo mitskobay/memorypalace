@@ -2,7 +2,7 @@
 
 ## Open all images together ([1])
 - Go to `File > Scripts > Load Files into Stack`
-- In the `Load Layers` dialog box, set Use to Files
+- In the `Load Layers` dialog box, set `Use:` to `Files`
 - Use `Browse...` to open each image
 - Back in the `Load Layers` dialog box click `OK`
 - Photoshop will load each image as a layer in a single document
