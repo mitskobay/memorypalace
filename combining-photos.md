@@ -8,7 +8,7 @@
 - Photoshop will load each image as a layer in a single document
 - Alternatively, to add a photo to an existing document, use `File > Place Embedded...` ([5])
 
-## Expand document bounds ([1])
+## Expand/contract document bounds ([1], [7])
 - The images will be stacked on top of each other
 - We will reposition the images and expand the canvas space
 - Select the `Move` Tool
@@ -16,6 +16,7 @@
 - Select a layer to move, then drag the image to the side until it snaps against another image (holding shift while dragging will limit the direction)
 - To expand the canvas, go to `Image` and choose `Reveal All`
 - Repeat with each image until none are overlapping
+- To shrink the canvas, go to `Image` and choose `Trim`
 
 
 ## Create guides on a standard reference ([2], [3])
@@ -49,3 +50,5 @@
 [5]: https://helpx.adobe.com/photoshop/how-to/ps-layers-basics.html?playlistPath=/services/playlist.helpx/set-header:ccx-designer/learn-path:get-started/products:SG_PHOTOSHOP_1_1/playlist:ccl-get-started-1/en_us.json
 
 [6]: https://helpx.adobe.com/ph_fil/photoshop/how-to/add-border-frame-around-photo.html#
+
+[7]: https://creativepro.com/creativepro-tip-of-the-week-quickly-resize-the-photoshop-canvas-with-reveal-all-and-trim/
