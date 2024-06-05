@@ -31,7 +31,7 @@
 - Select `Rectangular Marquee Tool`
 - Drag a selection outline around the part of the image you want to keep
 - Select `Mask`
-- To copy a layer mask to another layer, press and hold Option, then click and drag it to another layer
+- To copy a layer mask to another layer, press and hold `Option`, then click and drag it to another layer
 
 ## Create border between photos ([6])
 - Position the photos with space between them
