@@ -12,7 +12,7 @@ We will convert a png hanger icon into a vector line icon because who doesn't ne
 6. Increase `Stroke:` to a large number (say 100 px) until stroke of icon appears
 7. Uncheck `Preview` and click `trace`
 8. In menu bar, select `Object > Image Trace > Expand`
-9. To copy and paste elsewhere, use direct selection tool to select path
+9. Save file as svg
 
 <img src="images/hanger-icon.svg" alt="hanger icon" width="100" style="display: block; margin: auto"/>
 
