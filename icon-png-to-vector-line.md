@@ -1,6 +1,6 @@
 # How to Convert a PNG Icon to Vector Stroke Icon in Adobe Illustrator ([1])
 
-We will convert a png hanger icon into a vector line icon because who doesn't need more hanger icons?
+We will convert a png hanger icon ([2]) into a vector line icon because who doesn't need more hanger icons?
 
 <img src="images/hanger-icon.png" alt="hanger icon" width="100" style="display: block; margin: auto"/>
 
@@ -17,3 +17,5 @@ We will convert a png hanger icon into a vector line icon because who doesn't ne
 <img src="images/hanger-icon.svg" alt="hanger icon" width="100" style="display: block; margin: auto"/>
 
 [1]: https://community.glowforge.com/t/how-to-get-a-centerline-trace-in-illustrator/21392
+
+[2]: https://www.freepik.com/author/freepik/icons/basic-rounded-lineal_4?t=f#from_element=families_block
