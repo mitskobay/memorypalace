@@ -14,4 +14,6 @@ We will convert a png hanger icon into a vector line icon because who doesn't ne
 8. In menu bar, select `Object > Image Trace > Expand`
 9. To copy and paste elsewhere, use direct selection tool to select path
 
+<img src="images/hanger-icon.svg" alt="hanger icon" width="400" style="display: block; margin: auto"/>
+
 [1]: https://community.glowforge.com/t/how-to-get-a-centerline-trace-in-illustrator/21392
