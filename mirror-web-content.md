@@ -12,7 +12,7 @@ Suppose we must duplicate content on two different pages of a website. Manually 
 ```sh
 <?php
   $doc = new DOMDocument();
-  $doc -> loadHTMLFile('/directory/index.php');
+  $doc -> loadHTMLFile('/directory/source.php');
   $elt = $doc -> getElementById("memorable");
   echo $doc->saveHTML($elt);
 ?>
