@@ -28,6 +28,6 @@ Breaking down the @ForeverDansky youtube short of the same title
 23. Use Object > Repeat > Grid to repeat tile
 24. Use Object > Repeat > Options... to adjust spacing (I used -120px for both horizontal and vertical spacing)
 
-<img src="images/metaballs.svg" alt="tiled metaballs" width="100" style="display: block; margin: auto"/>
+<img src="images/metaballs.svg" alt="tiled metaballs" width="50%" style="display: block; margin: auto"/>
 
 
