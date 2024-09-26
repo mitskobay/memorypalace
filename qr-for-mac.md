@@ -8,7 +8,7 @@ We will use the Shortcuts app ([1]) that comes with MacOS. This will avoid inclu
 - Drag `Generate QR Code` into the main panel (or double click)
 - Replace `Text` with `Clipboard`
 - Clear search bar, locate and drag `Save to Photo Album`
-- Notice that the name of the shortcut in the header has also changed to "Save to Photo Album". Click the name and change it to "Create QR Code"
+- Notice that the name of the shortcut in the header has also changed to "Save to Photo Album". Click the name and change it to "Clipboard to QR Code"
 - Done! To test it, copy a web address into the clipboard. Then click the play button (the triangle) on the right side of the header. The QR code appears in the shortcut panel. It should also be in your Photo Album.
 - Once you have checked that it works, close the window. This reveals the main Shortcuts window, which contains the new shortcut.
 - In practice, you can copy a web address, then open the Shortcuts app and push the play button on your QR code shortcut. Look for the QR code in the Photos app, in the `recents` folder
