@@ -1,7 +1,8 @@
 ## How to Create QR Codes on a Mac
+We will use the Shortcuts app ([1]) that comes with MacOS. This will avoid including trackers that third party applications may embed in their QR codes. ([2])
 
 # Level 1: Make Shortcut
-We will use the Shortcuts app ([1]) that comes with MacOS. This will avoid including trackers that third party applications may embed in their QR codes. ([2])
+
 - Open the Shortcuts app (`Finder > Applications > Shortcuts.app`)
 - Click `+` button to create a new shortcut
 - In search bar, enter "qr"
