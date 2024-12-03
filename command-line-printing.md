@@ -10,11 +10,11 @@ Do `lp cal.txt`.
 
 - Is `lp` available? Do `which lp` to make sure it is in your search path.
 
-- Check the status of your printers:\
+- Check the status of your printers:
 ```sh
 lpstat -p -d
 ```
-  The `-p` option provides the printer descriptions; the `-d` option indicates the default printer.
+The `-p` option provides the printer descriptions; the `-d` option indicates the default printer.
 
 - For a long list of printer options: `lpoptions`\
 This may be hard to read, so we can replace spaces by newlines, and use `more`:
