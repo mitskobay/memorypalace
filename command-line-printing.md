@@ -14,7 +14,7 @@ Do `lp cal.txt`.
 ```sh
 lpstat -p -d
 ```
-The `-p` option provides the printer descriptions; the `-d` option indicates the default printer.
+  The `-p` option provides the printer descriptions; the `-d` option indicates the default printer.
 
 - For a long list of printer options: `lpoptions`\
 This may be hard to read, so we can replace spaces by newlines, and use `more`:
