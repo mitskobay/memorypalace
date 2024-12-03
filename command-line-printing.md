@@ -40,15 +40,15 @@ We already showed how to do basic printing: `lp cal.txt`
 
 - The `-o` is for options, and here are some more from the man page:
 
--- `-o media=size`: Most printers support at least "a4", "letter", and "legal"
+  - `-o media=size`: Most printers support at least "a4", "letter", and "legal"
 
--- `-o number-up={2|4|6|9|16}`: prints that many document pages on each output page
+  - `-o number-up={2|4|6|9|16}`: prints that many document pages on each output page
 
--- `-o orientation-requested={4|5|6}`: 4, landscape 90 deg ccw; 5, landscape 90 deg cw; 6, reverse portrait (180 deg) 
+  - `-o orientation-requested={4|5|6}`: 4, landscape 90 deg ccw; 5, landscape 90 deg cw; 6, reverse portrait (180 deg) 
 
--- `-o print-quality={3|4|5}`: 3, draft; 4, normal; 5, best
+  - `-o print-quality={3|4|5}`: 3, draft; 4, normal; 5, best
 
--- `-o sides={one-sided|two-sided-long-edge|two-sided-short-edge}`
+  - `-o sides={one-sided|two-sided-long-edge|two-sided-short-edge}`
 
 - To change the option settings: `lpoptions -o sides=two-sided-short-edge`
 
