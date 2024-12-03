@@ -3,25 +3,25 @@
 I just learned about the `cal` command, which displays a calendar in the command line. I wanted to print one to tape to my desk (do `cal -h` to remove highlighting of today's date). After saving the text to a file (`cal -h > cal.txt`), what to do next?
 
 ## tl;dr
+
 Do `lp cal.txt`.
 
 ## Much more on command line printing ([1])
 
 - Is `lp` available? Do `which lp` to make sure it is in your search path.
 
-- Check the status of your printers:
+- Check the status of your printers:\
 ```sh
 lpstat -p -d
 ```
 The `-p` option provides the printer descriptions; the `-d` option indicates the default printer.
 
-- For a long list of printer options: `lpoptions`
-This may be hard to read, so we can replace spaces by newlines, and use more:
+- For a long list of printer options: `lpoptions`\
+This may be hard to read, so we can replace spaces by newlines, and use `more`:
 ```sh
 lpoptions | tr " " `\n` | more
 ```
-(`tr` stands for "translate", and is useful for basic replacing as well as more sophisticated transformations.)
-
+(`tr` stands for "translate", and is useful for basic replacing as well as more sophisticated transformations.)\
 And if there are multiple printers, you can specify one like "LaserJet" by using `lpoptions -p LaserJet`.
 
 - For drivers, IP address, and related information: `lpinfo -v`
