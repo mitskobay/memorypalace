@@ -10,6 +10,6 @@ What follows is the easiest way I know so far to get this done.
 
 # AutoMACically
 - I will look into Shortcuts.
-- There is a Applescripts way here: [1]
+- There is a Applescripts way here: ([1])
 
 [1]: https://superuser.com/questions/622936/mass-convert-xls-and-xlsx-to-txt-tab-delimited-on-a-mac
