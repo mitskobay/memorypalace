@@ -22,5 +22,9 @@ We will use the Shortcuts app ([1]) that comes with MacOS. This will avoid track
 - To make the icon appear in the dock, control-click the shortcut in the dock. Select `Options > Show in Finder`. In Finder, control-click the QR code app and select `Get Info` to open the info panel. Back in Finder, control-click the QR code app and select `Show Package Contents`. Navigate to `Contents > Resources`. Drag ShortcutIcon.icns to the icon at the top of the info panel until the green `+` icon shows up, then drop it
 - Finally, we restart the dock. Open the Terminal app (`Applications > Utilities`), and type `killall Dock` in Terminal. Press `Return`. Quit Terminal and wait for the Dock to restart. The new icon should now appear!
 
+# TL;DR
+
+- Here is a link to my shortcut: [Clipboard toQR Code](https://www.icloud.com/shortcuts/2663a2546f81482c8efd334765773e42)
+
 [1]: https://support.apple.com/guide/shortcuts-mac/intro-to-shortcuts-apdf22b0444c/mac
 [2]: https://education.apple.com/resource/250011714
