@@ -24,7 +24,7 @@ We will use the Shortcuts app ([1]) that comes with MacOS. This will avoid track
 
 # TL;DR
 
-- Here is a link to my shortcut: [Clipboard toQR Code](https://www.icloud.com/shortcuts/2663a2546f81482c8efd334765773e42)
+- Here is a link to my shortcut: [Clipboard to QR Code](https://www.icloud.com/shortcuts/2663a2546f81482c8efd334765773e42)
 
 [1]: https://support.apple.com/guide/shortcuts-mac/intro-to-shortcuts-apdf22b0444c/mac
 [2]: https://education.apple.com/resource/250011714
